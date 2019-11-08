@@ -9,3 +9,14 @@ Each new entry should be given a checkbox and after its completion I should writ
 
 ### Creative Front-end
 - [ ] [Behind the scenes of We Cargo](https://medium.com/epicagency/behind-the-scenes-of-we-cargo-3999f5f559c)
+
+### Time management
+- [x] [Why We're Bad at Estimating Time](https://zapier.com/blog/how-to-estimate-time/) 
+  - we often underestimate how long will a task take and there is phsychological reasoning behind that (optimism bias)
+  - overcoming the planning fallacy: 
+    - Use Historical Data (time tracking)
+    - Have Someone Else Estimate for You (we estimate more realistically for others)
+    - Estimate in Ranges, or Build in Time for Delays ([cone of uncertanty](https://user-images.githubusercontent.com/12981417/68505059-af593400-0266-11ea-8997-703625a60b66.png))
+    - Use Three-Point Estimations
+    - Calculate Your Fudge Ratio (the percentage by which you always underestimate)
+    - Estimate During the Low Point of Your Day (pessimistic approach, usually after lunch)
