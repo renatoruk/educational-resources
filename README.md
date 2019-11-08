@@ -1,6 +1,6 @@
 # Educational resources
 
-This is my place for storing all the videos, lessons, books and everything in between that contributes to knowledge of software development and related skills.
+This is my place for storing all the videos, lessons, books and everything in between that contributes to the knowledge of software development and related skills.
 
 Each new entry should be given a checkbox and after its completion I should write a few key takeaways for a later reference.
 
