@@ -8,7 +8,9 @@ Each new entry should be given a checkbox and after its completion I should writ
 - [ ] [Why Isn't Functional Programming the Norm? – Richard Feldman](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
 
 ### Creative Front-end
-- [ ] [Behind the scenes of We Cargo](https://medium.com/epicagency/behind-the-scenes-of-we-cargo-3999f5f559c)
+- [x] [Behind the scenes of We Cargo](https://medium.com/epicagency/behind-the-scenes-of-we-cargo-3999f5f559c)
+  - WebGL and DOM can be combined by an abstraction layer
+  - WebGL can sometimes be implemented as progressive enhancement, rendered underneath the dom elements
 
 ### Time management
 - [x] [Why We're Bad at Estimating Time](https://zapier.com/blog/how-to-estimate-time/) 
