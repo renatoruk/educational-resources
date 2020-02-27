@@ -22,3 +22,7 @@ Each new entry should be given a checkbox and after its completion I should writ
     - Use Three-Point Estimations
     - Calculate Your Fudge Ratio (the percentage by which you always underestimate)
     - Estimate During the Low Point of Your Day (pessimistic approach, usually after lunch)
+    
+    
+### Architecture and design
+- [ ] [Designing Even Larger Applications - Malte Ubl](https://medium.com/@cramforce/designing-even-larger-applications-460ee029012d) 
