@@ -25,4 +25,4 @@ Each new entry should be given a checkbox and after its completion I should writ
     
     
 ### Architecture and design
-- [ ] [Designing Even Larger Applications - Malte Ubl](https://medium.com/@cramforce/designing-even-larger-applications-460ee029012d) 
+- [ ] [Designing Even Larger Applications - Malte Ubl](https://medium.com/@cramforce/designing-even-larger-applications-460ee029012d) 
