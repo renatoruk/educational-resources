@@ -5,7 +5,7 @@ This is my place for storing all the videos, lessons, books and everything in be
 Each new entry should be given a checkbox and after its completion I should write a few key takeaways for a later reference.
 
 ### React
-- [ ] [Practical Redux - Mark Erikson](https://blog.isquaredsoftware.com/2016/10/practical-redux-part-0-introduction/)
+- [ ] [Practical Redux - Mark Erikson](https://blog.isquaredsoftware.com/2016/10/practical-redux-part-0-introduction/)
 
 ### Functional programming
 - [ ] [Why Isn't Functional Programming the Norm? – Richard Feldman](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
