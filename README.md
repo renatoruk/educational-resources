@@ -6,7 +6,7 @@ Each new entry should be given a checkbox and after its completion I should writ
 
 ### React
 - [ ] [Practical Redux - Mark Erikson](https://blog.isquaredsoftware.com/2016/10/practical-redux-part-0-introduction/)
-- [x] [Profiling React Performance](https://addyosmani.com/blog/profiling-react-js/)
+- [ ] [Profiling React Performance](https://addyosmani.com/blog/profiling-react-js/)
     - programmatic profiling of React apps with React Profiler API
 
 ### Functional programming
