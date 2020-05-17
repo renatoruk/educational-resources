@@ -32,3 +32,10 @@ Each new entry should be given a checkbox and after its completion I should writ
     
 ### Architecture and design
 - [ ] [Designing Even Larger Applications - Malte Ubl](https://medium.com/@cramforce/designing-even-larger-applications-460ee029012d) 
+
+### Project Management
+- [x] [Product Management Mental Models for Everyone](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b?gi=617d96bb2cb9) 
+    - Mental models are simple expressions of complex processes or relationships. These models are accumulated over time by an individual and used to make faster and better decisions.
+    - there are many mental models in the product development (e.g. pareto principle), but sticking only to one will probably give you incorrect image about the world or scenario
+    - feature/product certanty should define *how many resources* should you invest into building something new
+        - e.g. for an experimental product it's better to start small and fast and learn from the customer
