@@ -39,3 +39,7 @@ Each new entry should be given a checkbox and after its completion I should writ
     - there are many mental models in the product development (e.g. pareto principle), but sticking only to one will probably give you incorrect image about the world or scenario
     - feature/product certanty should define *how many resources* should you invest into building something new
         - e.g. for an experimental product it's better to start small and fast and learn from the customer
+        
+### Critical Thinking
+- [x] https://untools.co/
+    - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
