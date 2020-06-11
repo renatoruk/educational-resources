@@ -29,6 +29,12 @@ Each new entry should be given a checkbox and after its completion I should writ
     - Calculate Your Fudge Ratio (the percentage by which you always underestimate)
     - Estimate During the Low Point of Your Day (pessimistic approach, usually after lunch)
     
+### Web app performance
+- [x] https://3perf.com/blog/notion/ - analysing Notion app's speed
+    - key takeaways for improving app loading performance:
+        - code splitting (lower parsing and execution time)
+        - polyfilling only for browsers that need it
+        - removing unneccessary dependencies
     
 ### Architecture and design
 - [ ] [Designing Even Larger Applications - Malte Ubl](https://medium.com/@cramforce/designing-even-larger-applications-460ee029012d) 
