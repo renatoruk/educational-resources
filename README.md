@@ -49,3 +49,6 @@ Each new entry should be given a checkbox and after its completion I should writ
 ### Critical Thinking
 - [x] https://untools.co/
     - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
+
+# Dicovery & specification
+- [ ] [User Story Mapping with Jeff Patton](https://www.youtube.com/watch?time_continue=225&v=AorAgSrHjKM&feature=emb_title&ab_channel=ComsystoReplyGmbH)
