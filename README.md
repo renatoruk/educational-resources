@@ -39,6 +39,49 @@ Each new entry should be given a checkbox and after its completion I should writ
 ### Architecture and design
 - [ ] [Designing Even Larger Applications - Malte Ubl](https://medium.com/@cramforce/designing-even-larger-applications-460ee029012d) 
 
+### Development practices
+- [x] [GOTO 2016 • Software, Faster • Dan North](https://www.youtube.com/watch?v=USc-yLHXNUg&feature=youtu.be&t=1053&ab_channel=GOTOConferences)
+    - less code is often better than more code (seems super obvious)
+    - patterns of software team behaviour:
+        - **spike and stabilize**
+            - half of codebase should be short
+            - technique of deliberately deciding if the code is young or old
+            - spike 
+              — experiment until you have the goal done
+              - have time constraint
+              - do not deliberately decide if the code is quality upfront
+              - learning is the main goal
+            - stabilize
+              - going back to the "experiment" and cleaning up
+              - writing tests, refactoring
+              - criteria for stabilization:
+                  - going back to it second time
+                  - going back to it in 6 weeks
+            - we end up with code that's new and spikey or old and stable
+        - **hair trigger**
+          - if a team can not deploy its own code, it can never go fast
+          - responsibility and carefullness
+          - move fast and be careful, deploy and learn (but have rollback ideally, a safety net)
+        - **shallow silos**
+          - in agile methodology anyone should be able to work on everything
+          - having constraints in team makes the team effective, not everyone needs to do everything, but a team should collaborate and get together to sync
+        - **ginger cake**
+          - pattern for getting started quickly with something
+          - by having great knowledge on a part of the code, copying is fine because you already know about the ins and outs
+        - **burning ships**
+            - learning pattern
+            - experimental strategy of commiting to a goal and forcing yourself to only solve problems and goals without additional learning
+            - knowning "just enough" for getting stuff done
+            - constraints:
+                - deadline
+                - running out of other options
+                - information
+            - example: building a todo app in C#, but not knowing the language
+                - not watching tutorials or reading books
+                - learning by doing and experimenting
+                - learning only enough for the next goal
+                
+
 ### Project Management
 - [x] [Product Management Mental Models for Everyone](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b?gi=617d96bb2cb9) 
     - Mental models are simple expressions of complex processes or relationships. These models are accumulated over time by an individual and used to make faster and better decisions.
