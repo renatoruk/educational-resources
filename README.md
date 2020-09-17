@@ -35,6 +35,10 @@ Each new entry should be given a checkbox and after its completion I should writ
         - code splitting (lower parsing and execution time)
         - polyfilling only for browsers that need it
         - removing unneccessary dependencies
+        
+        
+### Testing
+- [ ] https://medium.com/swlh/publish-your-cypress-test-report-with-github-actions-47248788713a
     
 ### Architecture and design
 - [ ] [Designing Even Larger Applications - Malte Ubl](https://medium.com/@cramforce/designing-even-larger-applications-460ee029012d) 
