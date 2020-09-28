@@ -10,6 +10,9 @@ Each new entry should be given a checkbox and after its completion I should writ
     - programmatic profiling of React apps with React Profiler API
 - [ ] [How Next.js and Gatsby work and their differences](https://www.youtube.com/watch?v=xC4Yq_mXvPM&ab_channel=Prismic)
 
+### JS
+- [ ] https://www.youtube.com/watch?time_continue=2&v=8aGhZQkoFbQ&feature=emb_logo&ab_channel=JSConf
+
 ### Functional programming
 - [ ] [Why Isn't Functional Programming the Norm? – Richard Feldman](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
 
