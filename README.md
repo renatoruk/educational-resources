@@ -100,6 +100,15 @@ Each new entry should be given a checkbox and after its completion I should writ
 - [x] https://untools.co/
     - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 
-# Dicovery & specification
+### Dicovery & specification
 - [ ] [User Story Mapping with Jeff Patton](https://www.youtube.com/watch?time_continue=225&v=AorAgSrHjKM&feature=emb_title&ab_channel=ComsystoReplyGmbH)
 - [ ] https://medium.com/tribalscale/writing-technical-user-stories-434bf96f1dd5
+
+
+### Technical leadership
+* [x] https://medium.com/coleadership/what-does-it-take-to-be-a-successful-tech-lead-d133ee18677
+    - A good tech lead excels in delivery and execution
+    - A good tech lead builds a thriving team
+    - A good tech lead builds alignment
+    - A good tech lead balances priorities
+    - A good tech lead is clear about what they want
