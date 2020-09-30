@@ -107,3 +107,8 @@ Each new entry should be given a checkbox and after its completion I should writ
 
 ### Technical leadership
 * [x] https://medium.com/coleadership/what-does-it-take-to-be-a-successful-tech-lead-d133ee18677
+    - A good tech lead excels in delivery and execution
+    - A good tech lead builds a thriving team
+    - A good tech lead builds alignment
+    - A good tech lead balances priorities
+    - A good tech lead is clear about what they want
