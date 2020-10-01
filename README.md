@@ -101,8 +101,8 @@ Each new entry should be given a checkbox and after its completion I should writ
     - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 
 ### Dicovery & specification
-- [ ] [User Story Mapping with Jeff Patton](https://www.youtube.com/watch?time_continue=225&v=AorAgSrHjKM&feature=emb_title&ab_channel=ComsystoReplyGmbH)
-* [x] https://medium.com/tribalscale/writing-technical-user-stories-434bf96f1dd5
+* [ ] [User Story Mapping with Jeff Patton](https://www.youtube.com/watch?time_continue=225&v=AorAgSrHjKM&feature=emb_title&ab_channel=ComsystoReplyGmbH)
+* [x] https://medium.com/tribalscale/writing-technical-user-stories-434bf96f1dd5
     - Good user story:
         - Independent (can be built separately to other stories)
         - Negotiable (requirements can be adapted)
