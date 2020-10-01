@@ -103,7 +103,13 @@ Each new entry should be given a checkbox and after its completion I should writ
 ### Dicovery & specification
 - [ ] [User Story Mapping with Jeff Patton](https://www.youtube.com/watch?time_continue=225&v=AorAgSrHjKM&feature=emb_title&ab_channel=ComsystoReplyGmbH)
 - [ ] https://medium.com/tribalscale/writing-technical-user-stories-434bf96f1dd5
-
+    - Good user story:
+        - Independent (can be built separately to other stories)
+        - Negotiable (requirements can be adapted)
+        - Valuable (provides benefit to the end-user)
+        - Estimable (to reasonable accuracy)
+        - Small (can be built within one iteration)
+        - Testable (can be verified by QA)
 
 ### Technical leadership
 * [x] https://medium.com/coleadership/what-does-it-take-to-be-a-successful-tech-lead-d133ee18677
