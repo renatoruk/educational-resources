@@ -112,6 +112,9 @@ Each new entry should be given a checkbox and after its completion I should writ
         - Small (can be built within one iteration)
         - Testable (can be verified by QA)
 
+### Git
+* [ ] https://nvie.com/posts/a-successful-git-branching-model/
+
 ### Technical leadership
 * [x] https://medium.com/coleadership/what-does-it-take-to-be-a-successful-tech-lead-d133ee18677
     - A good tech lead excels in delivery and execution
