@@ -43,6 +43,7 @@ Each new entry should be given a checkbox and after its completion I should writ
 ### Testing
 - [ ] https://medium.com/swlh/publish-your-cypress-test-report-with-github-actions-47248788713a
 - [ ] [UI testing best practices](https://github.com/NoriSte/ui-testing-best-practices)
+- [ ] https://dev.to/noriste/front-end-productivity-boost-cypress-as-your-main-development-browser-5cdk
     
 ### Architecture and design
 - [ ] [Designing Even Larger Applications - Malte Ubl](https://medium.com/@cramforce/designing-even-larger-applications-460ee029012d) 
